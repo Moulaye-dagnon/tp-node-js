@@ -68,3 +68,19 @@ Organiser une application avec des routeurs modulaires
 le screenshot est un exemple de la route blog separe dans les dossier controller , routes et index.js
 
 ![](ecran/12.png)
+
+# II - Les Middlewares dans ExpressJS
+
+## Exercice 1
+
+Créer un middleware de logging personnalisé
+
+log de url /posts/2022
+
+![](ecran/13.png)
+
+## Exercice 3
+
+Intégrer plusieurs middlewares tiers
+
+![](ecran/14.png)
